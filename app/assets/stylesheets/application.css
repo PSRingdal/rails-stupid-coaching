@@ -8,3 +8,14 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+.question, .answer {
+  background-color: rgba(245, 243, 243, 0.74);
+  padding: 12px;
+  margin-top: 30px;
+}
+
+
+body {
+  width: 800px;
+  margin: 0 auto;
+}
